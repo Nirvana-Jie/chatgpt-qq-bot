@@ -27,7 +27,6 @@
         "SwitchCase": 1
       }
     ],
-    "quotes": ["warn", "single"],
     "comma-spacing": "warn",
     "no-multi-spaces": "warn",
     "key-spacing": [
